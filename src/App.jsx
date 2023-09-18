@@ -7,6 +7,11 @@ function App() {
     <>
       <div>
         <Sidebar />
+        <div >
+          <section className='home section'>
+            Home
+          </section>
+        </div>
       </div>
     </>
   )
